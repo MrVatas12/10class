@@ -11,7 +11,7 @@ print(slo(s))
 def rash(a,b):
    e=a.rfind(".") 
        If e!=-1:
-          a=a[:e]+b
+          a=a[:e+1]+b
        else:
           a=a+"."+b
 s=input()
