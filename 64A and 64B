@@ -13,7 +13,7 @@ def rash(a,b):
        If e!=-1:
           a=a[:e]+b
        else:
-          a="расширение не указано"
+          a=a+"."+b
 s=input()
 w=input()
 print(rash(s,w))
