@@ -1,0 +1,17 @@
+.leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+ }
+.hidden{
+    display: none;
+}
+figcaption{
+    text-align: center;
+}
+.right{
+    float: right;
+    margin: 7px 7px 7px 0;
+}
+#skrito{
+    padding-top: 20px;
+}
